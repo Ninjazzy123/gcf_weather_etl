@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/bigquery": "^7.4.0",
+    "@google-cloud/storage": "^7.7.0",
+    "csv-parser": "^3.0.0",
+    "install": "^0.13.0",
+    "npm": "^10.4.0"
+  }
+}
